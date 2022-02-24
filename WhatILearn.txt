@@ -1,0 +1,17 @@
+mein na react native mein sb sa pehle core component kar bare mein study ki ka 
+react native ka core component kya hote hain or yeah kaisa perform karte hain.
+
+View , Text , Button , FlatList , TouchableOpacity , Link , Image , BackgroundImage , StyleSheet
+
+us ka baad mein react native mein styling kaisa perform hoti hai woh daika
+styling ka liye hamein aik react native ka core component ki zaroorat parhti
+agr hm element ka bahir styling karte hain.
+react native mein styling web browser ka styling ki tarha hi hoti hai.
+
+us ka hm na dekha ka hm array of data ko kis tarha list of data mein convert karte hain
+or uske har element ko render karte hai.
+FlatList ki kya khasoosiat hain.
+
+phir hm na navigation ka bare mein parha ka kis tarha hm aik screen sa dosri screen
+pr move karte hain.
+
